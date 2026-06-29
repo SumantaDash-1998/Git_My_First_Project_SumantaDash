@@ -6,3 +6,5 @@ Notice the >>:
 Welcome to Git Learning.
 this line was added in the feature branch.
 Git is awesome!
+Learning Git every Day!
+Learning Git every Day!
